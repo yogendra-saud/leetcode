@@ -1,6 +1,6 @@
 class Solution {
 public:
- void subsets(vector<int>nums,set<vector<int>>&st,vector<int>temp,int n,int idx)
+ void subsets(vector<int>nums,set<vector<int>>&st,vector<int>&temp,int n,int idx)
   {
        if(idx==n){
          st.insert(temp);
@@ -10,6 +10,7 @@ public:
         subsets(nums,st,temp,n,idx+1);
         temp.push_back(nums[idx]);
         subsets(nums,st,temp,n,idx+1); 
+        temp.pop_back();
  }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
     sort(nums.begin(),nums.end());
