@@ -31,16 +31,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/yogendra-saud/leetcode/tree/master/0290-word-pattern) |
+| [2965-find-missing-and-repeated-values](https://github.com/yogendra-saud/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yogendra-saud/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogendra-saud/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/yogendra-saud/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yogendra-saud/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yogendra-saud/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/yogendra-saud/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yogendra-saud/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogendra-saud/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yogendra-saud/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
