@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yogendra-saud/leetcode/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yogendra-saud/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yogendra-saud/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogendra-saud/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/yogendra-saud/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yogendra-saud/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yogendra-saud/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
