@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yogendra-saud/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yogendra-saud/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogendra-saud/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yogendra-saud/leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/yogendra-saud/leetcode/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yogendra-saud/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yogendra-saud/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yogendra-saud/leetcode/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yogendra-saud/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yogendra-saud/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
